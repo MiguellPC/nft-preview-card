@@ -22,7 +22,15 @@ Users should be able to:
 
 ## Built with
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,vite,react,tailwind)](https://skillicons.dev)
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Vite</li>
+  <li>React</li>
+  <li>Tailwind CSS</li>
+</ul>
+
+![My Skills](https://skillicons.dev/icons?i=html,css,vite,react,tailwind)
 
 ## Screenshot
 
