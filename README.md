@@ -38,8 +38,8 @@ Users should be able to:
 
 ## Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/MiguellPC/nft-preview-card)
+- Live Site URL: [GitHub Pages](https://miguellpc.github.io/nft-preview-card/)
 
 ## Author
 
