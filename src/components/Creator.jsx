@@ -1,18 +1,16 @@
-import avatar from "../../images/image-avatar.png";
-
-export const Creator = () => {
+export const Creator = (props) => {
   return (
     <>
       <footer className="w-full flex justify-start items-center gap-4 text-letter-primary">
         <img
-          src={avatar}
-          alt="Jules Wyvern picture"
+          src={props.avatar}
+          alt={props.creatorImgAlt}
           className="w-[30px] border rounded-full border-letter-white"
         />
         <p>
           Creation of{" "}
           <span className="text-letter-white hover:text-letter-cyan cursor-pointer">
-            Jules Wyvern
+            {props.creatorName}
           </span>
         </p>
       </footer>
